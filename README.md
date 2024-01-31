@@ -106,8 +106,6 @@ A list things you need to use the software and how to install them.
 2. Install NPM packages
    ```sh
    npm install
-   npm install express
-   npm install uuid
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
